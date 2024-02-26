@@ -11,5 +11,3 @@ V = (7 mod 13) + 1 = 8. Отже, виконуємо завдання варіа
 # Розв'язання
 
 ![image](https://github.com/kateryna-paz/Java_lab2/assets/111423929/716f0060-0c53-4c72-8a26-50a97f476dc7)
-
-
