@@ -26,9 +26,7 @@ public class TrigonometricGraph extends JFrame {
         add(graphPanel);
     }
 
-    public static void main(String[] args) {
-        SwingUtilities.invokeLater(() -> new TrigonometricGraph().setVisible(true));
-    }
+
 }
 
 class GraphPanel extends JPanel {
